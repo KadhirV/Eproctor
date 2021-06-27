@@ -5,14 +5,9 @@ import pyrebase
 import urllib
 
 firebaseConfig = {
-    "apiKey": "AIzaSyAphLwfwVVsyZUwG-GNuChX4VLNL8iR-eM",
-    "authDomain": "eproctor-9a9e6.firebaseapp.com",
-    "databaseURL": "https://eproctor-9a9e6-default-rtdb.firebaseio.com/",
-    "projectId": "eproctor-9a9e6",
-    "storageBucket": "eproctor-9a9e6.appspot.com",
-    "messagingSenderId": "1094456342195",
-    "appId": "1:1094456342195:web:585427d4ba4294654ca2c6",
-    "measurementId": "G-Y1SEVKFJQB"
+    #your firebase configuration
+    #BE SURE TO ADD THE DATABASE LINK TOO
+    #"databaseURL": "<your database url>"
   };
 
 
