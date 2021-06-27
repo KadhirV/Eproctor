@@ -22,4 +22,4 @@ def getInfo():
     return centerinfo
 
 if __name__ == "__main__":
-    app.run(debug=True)pooooooooo0pooopp000000000
+    app.run(debug=True)
