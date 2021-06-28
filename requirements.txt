@@ -22,7 +22,6 @@ pipwin==0.5.1
 protobuf==3.17.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Kadhir/Mystuff/kadhir/Coding/Python/hackathons/Eproctor/venv/Scripts/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 pycryptodome==3.4.3
 pyjsparser==2.7.1
 pyparsing==2.4.7
